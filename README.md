@@ -1,10 +1,10 @@
-# 🏠 AI-Powered House Plan Generator
+# AI-Powered House Plan Generator
 
 Generate intelligent **top-view 2D floor plans** from natural language using Gemini AI or OpenAI. Get 3 unique layout variations, refine them with conversational feedback, and export professional PDFs — all running on a low-end laptop.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Natural language input** — "Modern 2BHK north-facing house with parking"
 - **3 layout variations** — Grid, Vastu-compliant, and Open Plan
@@ -17,7 +17,7 @@ Generate intelligent **top-view 2D floor plans** from natural language using Gem
 
 ---
 
-## 🖥️ System Requirements
+## System Requirements
 
 | Component | Minimum |
 |-----------|---------|
@@ -30,7 +30,7 @@ Generate intelligent **top-view 2D floor plans** from natural language using Gem
 
 ---
 
-## 🚀 Quick Start (Windows)
+## Quick Start (Windows)
 
 ```bat
 # 1. Clone or download the project
@@ -47,7 +47,7 @@ The script will:
 
 ---
 
-## 📦 Manual Installation
+## Manual Installation
 
 ### Backend Setup
 
@@ -96,7 +96,7 @@ Frontend runs at: **http://localhost:3000**
 
 ---
 
-## 🔑 Getting an API Key
+## Getting an API Key
 
 ### Gemini (Recommended — Free)
 1. Go to https://makersuite.google.com/app/apikey
@@ -117,7 +117,7 @@ Leave both keys empty — the app still works using built-in rules. Form inputs 
 
 ---
 
-## 🎯 How to Use
+## How to Use
 
 1. **Enter plot dimensions** (width × depth in feet, e.g., 30×40)
 2. **Choose facing direction** (North, South, East, West, etc.)
@@ -131,7 +131,7 @@ Leave both keys empty — the app still works using built-in rules. Form inputs 
 
 ---
 
-## 💬 Natural Language Examples
+## Natural Language Examples
 
 ```
 "Modern 2BHK east-facing house with vastu compliance and parking"
@@ -144,7 +144,7 @@ Leave both keys empty — the app still works using built-in rules. Form inputs 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 genai-topview-house-planner/
@@ -185,7 +185,7 @@ genai-topview-house-planner/
 
 ---
 
-## 🔌 API Reference
+## API Reference
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -198,7 +198,7 @@ genai-topview-house-planner/
 
 ---
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 | Problem | Solution |
 |---------|---------|
@@ -212,13 +212,13 @@ genai-topview-house-planner/
 
 ---
 
-## 🌐 Google Colab Backend
+## Google Colab Backend
 
 See `docs/project_report.md` Section 7 for full Colab setup instructions using ngrok tunneling.
 
 ---
 
-## 📄 License
+## License
 
 MIT License — Free for personal and commercial use.
 
